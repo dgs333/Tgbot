@@ -18,6 +18,7 @@
    Замените значения переменных на свои токены:<br>
    TOKENTG - ваш токен Telegram Bot<br>
    WETHERAPI - токен API от WeatherAPI<br>
+   
 4.**Запуск файла main.py:**<br>
    ```bash<br>
    python main.py
