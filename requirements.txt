@@ -1,0 +1,4 @@
+requests
+pytelegrambotapi
+fake-useragent
+g4f[all]
