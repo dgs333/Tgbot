@@ -4,7 +4,7 @@
 
 - Python (рекомендуется последняя версия)
 - Токен Telegram Bot
-- Токен API для дополнительных функций (если требуется)
+- токен API от WeatherAPI 
 
 ### Шаги для установки
 
@@ -18,7 +18,7 @@
 3. **Измените значения переменных в файле config.py:**
    Замените значения переменных на свои токены:
    TOKENTG - ваш токен Telegram Bot
-   WETHERAPI - токен от WeatherAPI 
+   WETHERAPI - токен API от WeatherAPI 
 
 4.**Запуск файла main.py:**
    python main.py
