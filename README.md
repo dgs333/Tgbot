@@ -11,14 +11,14 @@
 1. **Скачайте и установите Python** с официального сайта, если он еще не установлен:
    - [Скачать Python](https://www.python.org/downloads/)
 
-2. **Клонируйте репозиторий:**
-   git clone https://github.com/dgs333/Tgbot
+2. **Клонируйте репозиторий:**<br>
+   git clone https://github.com/dgs333/Tgbot<br>
    cd Tgbot
 
-3. **Измените значения переменных в файле config.py:**
-   Замените значения переменных на свои токены:
-   TOKENTG - ваш токен Telegram Bot
-   WETHERAPI - токен API от WeatherAPI 
+3. **Измените значения переменных в файле config.py:**<br>
+   Замените значения переменных на свои токены:<br>
+   TOKENTG - ваш токен Telegram Bot<br>
+   WETHERAPI - токен API от WeatherAPI
 
-4.**Запуск файла main.py:**
+4.**Запуск файла main.py:**<br>
    python main.py
