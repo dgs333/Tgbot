@@ -12,6 +12,7 @@
    - [Скачать Python](https://www.python.org/downloads/)
 
 2. **Клонируйте репозиторий:**<br>
+   ```bash<br>
    git clone https://github.com/dgs333/Tgbot<br>
    cd Tgbot
 
@@ -21,4 +22,5 @@
    WETHERAPI - токен API от WeatherAPI
 
 4.**Запуск файла main.py:**<br>
+   ```bash<br>
    python main.py
