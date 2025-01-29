@@ -14,11 +14,8 @@
    ```bash<br>
    git clone https://github.com/dgs333/Tgbot<br>
    cd Tgbot
-3. **Измените значения переменных в файле config.py:**<br>
-   Замените значения переменных на свои токены:<br>
-   TOKENTG - ваш токен Telegram Bot<br>
-   WETHERAPI - токен API от WeatherAPI<br>
-   
+3. **Измените значения переменных на свои токены в файле config.py:**<br>
+
 4. **Запуск файла main.py:**<br>
    ```bash<br>
    python main.py
