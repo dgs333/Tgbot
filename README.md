@@ -13,15 +13,15 @@
 
 2. **Клонируйте репозиторий:**<br>
    ```bash<br>
-   git clone https://github.com/dgs333/Tgbot<br>
-   cd Tgbot<br>
+   git clone https://github.com/dgs333/Tgbot
+   cd Tgbot
 3. **Установите зависимости:**<br>
    ```bash<br>
-   pip install -r requirements.txt<br>
+   pip install -r requirements.txt
 4. **Измените значения переменных на свои токены в файле config.py:**<br>
    ```bash<br>
-   TOKENTG = "токен Telegram Bot"<br>
-   WETHERAPI = "токен WeatherAPI"<br>
+   TOKENTG = "токен Telegram Bot"
+   WETHERAPI = "токен WeatherAPI"
 5. **Запуск файла main.py:**<br>
    ```bash<br>
-   python main.py<br>
+   python main.py
