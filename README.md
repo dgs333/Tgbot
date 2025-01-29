@@ -16,8 +16,8 @@
    cd Tgbot
 3. **Измените значения переменных на свои токены в файле config.py:**<br>
    ```bash<br>
-   TOKENTG - ваш токен Telegram Bot
-   WETHERAPI - токен от WeatherAPI
+   TOKENTG - "токен Telegram Bot"
+   WETHERAPI - "токен WeatherAPI"
 4. **Запуск файла main.py:**<br>
    ```bash<br>
    python main.py
